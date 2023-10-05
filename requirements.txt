@@ -1,0 +1,6 @@
+Flask
+pickle-mixin
+pandas
+numpy
+scikit-learn 
+waitress
